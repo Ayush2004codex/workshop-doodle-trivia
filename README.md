@@ -340,11 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 👨‍💻 Author
-
-**XXX**
-
-- GitHub: [@XXX](https://github.com/XXX)
-- Twitter: [@XXX](https://twitter.com/XXX)
+Ayush Upadhyay
 
 ---
 
@@ -355,10 +351,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the Solidity and Web3 community
 
 ---
-
-## 📞 Support
-
-If you have any questions or run into issues:
 
 - Open an [Issue](https://github.com/XXX/doodle-trivia/issues)
 - Join our community discussions
